@@ -1,4 +1,5 @@
 Swipe Left
 Swipe Right
 Jump up and Down
+Twirl your hands
 Do the Rainbow Dance
